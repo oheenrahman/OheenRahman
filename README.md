@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Oheen Rahman
 
-**Data Scientist | Economist | Builder of Cool Stuff**
+**Data Analyst @ Hairalyze | Economics & Data Science Student @ Rutgers University**
 
-📍 *Currently studying Data Science & Economics at Rutgers University (Class of 2027)*  
-🚀 *Aspiring Quant/Data Scientist with a passion for problem-solving, storytelling through data, and building smart tools that actually make life easier.*
+📍 *Currently studying B.S. of Data Science & Economics at Rutgers University (Class of 2027)*  
+
+🚀 *Aspiring Data Scientist/Economist with a passion for problem-solving, storytelling through data, and a great love for financial markets and their effects throughout the world.*
 
 ---
 
