@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oheen Rahman
 
-**Data Analyst @ Hairalyze | Economics & Data Science Student @ Rutgers University**
+**Economics & Data Science Student @ Rutgers University**
 
 📍 *Currently studying B.S. of Data Science & Economics at Rutgers University (Class of 2027)*  
 
